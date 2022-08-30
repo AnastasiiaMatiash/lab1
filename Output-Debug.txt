@@ -1,0 +1,14 @@
+﻿'ConsoleApplication5.exe' (Win32): Loaded 'C:\Users\Administrator\Desktop\Навчання\4 курс\Управління IT проектами\Лаб 1\ConsoleApplication5\Debug\ConsoleApplication5.exe'. Symbols loaded.
+'ConsoleApplication5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'ConsoleApplication5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'ConsoleApplication5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'ConsoleApplication5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'ConsoleApplication5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'ConsoleApplication5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3c80 has exited with code 0 (0x0).
+'ConsoleApplication5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'ConsoleApplication5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'ConsoleApplication5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x3e80 has exited with code 0 (0x0).
+The thread 0x5d44 has exited with code 0 (0x0).
+The program '[27016] ConsoleApplication5.exe' has exited with code 0 (0x0).
